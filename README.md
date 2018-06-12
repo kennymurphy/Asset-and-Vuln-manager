@@ -12,3 +12,4 @@ The front end application will produce graphs etc. (requirements to be defined) 
 
 Im learning most of this technology from scratch so this may take some time!!! 
 
+will probably put each of the elements into Docker containers for ease of deployment and configuration 
